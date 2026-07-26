@@ -1,0 +1,6 @@
+{
+  "name": "Deepfake Detection System",
+  "description": "A production-grade AI Deepfake Detection & Forensics platform combining ResNet-50, Capsule Networks, and LSTM/Transformer temporal reasoning with explainable Grad-CAM visual heatmaps.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
